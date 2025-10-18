@@ -1,5 +1,6 @@
 ## LeetCode Achievements  
 
+- **100 Days Badge 2025**
 - **50 Days Badge 2025**
 - **DCC August 2025**
 - **DCC September 2025**
