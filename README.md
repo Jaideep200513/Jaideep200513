@@ -9,7 +9,7 @@ Check out my full profile here: [My LeetCode Profile](https://leetcode.com/u/CKp
 
 ## Certifications
 
-- [**AWS Academy Graduate – Cloud Architecting**](https://www.credly.com/badges/3c8d9bde-26ee-4477-90c6-c69523018136/public_url)
+- [**AWS Academy Graduate – Cloud Architecting**](https://www.credly.com/badges/3c8d9bde-26ee-4477-90c6-c69523018136/public_url)  
   *(Issued by AWS Academy via Credly)*
 
 - [**AWS Academy Graduate – Cloud Foundations**](https://www.credly.com/badges/f0d2f2a3-860b-48c6-a7a7-a4b0fd213cfd/public_url)  
