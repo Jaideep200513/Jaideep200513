@@ -11,9 +11,9 @@
 <!-- Social badges -->
 <p>
   <a href="mailto:jaideep.gubbala13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://in.linkedin.com/in/jaideep-gubbala-7460a43b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://my-portfolio-fawn-one-86.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/CKpn7XWKGi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 </div>
@@ -54,14 +54,14 @@
 <tr>
 <td width="50%">
 
-**🧩 [LeetBridge](https://github.com/Jaideep200513)**
+**🧩 [LeetBridge](https://github.com/Jaideep200513/leetbridge)**
 Chrome extension that auto-uploads accepted LeetCode solutions to GitHub via the GitHub REST API — cut manual sync effort by 90%.
 `JavaScript` `Chrome Extension APIs` `GitHub REST API`
 
 </td>
 <td width="50%">
 
-**💸 [Smart Expense Splitter](https://github.com/Jaideep200513)**
+**💸 [Smart Expense Splitter](https://github.com/Jaideep200513/Smart-Expense-Splitter)**
 Full-stack expense management app with a Flask backend and SQLite storage for splitting shared expenses. Deployed live on Render.
 `Flask` `SQLite` `HTML/CSS/JS`
 
@@ -70,32 +70,13 @@ Full-stack expense management app with a Flask backend and SQLite storage for sp
 <tr>
 <td width="50%">
 
-**⚠️ [Dynamic Risk Assessment Tool](https://github.com/Jaideep200513)**
-Web tool that flags likely project bottlenecks from user-provided data, with a responsive Flask + JS frontend. Hosted on Hugging Face Spaces.
-`Flask` `HTML/CSS/JS`
-
 </td>
 <td width="50%">
-
-**✅ [TaskVault](https://github.com/Jaideep200513/TaskVault)**
-Beginner-friendly multi-user task management app with light/dark themes, search, filters, and a full CRUD REST API.
-`Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
-**📦 Compressify**
-From-scratch file compression web app implementing LZW and Huffman coding.
-`Python` `Algorithms`
-
-</td>
-<td width="50%">
-
-**🔍 DeadScan**
-Premium SaaS static analysis tool that detects dead code in Python repos, with async scanning and an AI assistant layer.
-`Next.js` `FastAPI` `PostgreSQL` `Redis`
 
 </td>
 </tr>
