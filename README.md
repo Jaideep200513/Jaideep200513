@@ -45,7 +45,6 @@ jaideep@dev:~$ tree ~/projects --depth=1
 
 [![LeetBridge](https://img.shields.io/badge/→_leetbridge-0D1117?style=flat-square&logo=googlechrome&logoColor=39FF14)](https://github.com/Jaideep200513/leetbridge)
 [![Expense Splitter](https://img.shields.io/badge/→_smart--expense--splitter-0D1117?style=flat-square&logo=flask&logoColor=39FF14)](https://github.com/Jaideep200513/Smart-Expense-Splitter)
-[![TaskVault](https://img.shields.io/badge/→_taskvault-0D1117?style=flat-square&logo=mongodb&logoColor=39FF14)](https://github.com/Jaideep200513/TaskVault)
 
 </div>
 
